@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "204213678228",
+    "firebase_url": "https://estacion-meteorologico-5c42d-default-rtdb.firebaseio.com",
+    "project_id": "estacion-meteorologico-5c42d",
+    "storage_bucket": "estacion-meteorologico-5c42d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204213678228:android:2ea940c9e1fce34b86c481",
+        "android_client_info": {
+          "package_name": "com.example.estacionmeteorologica2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSX9_jGu0GBfml_r0KkQTYma-vknNGWNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204213678228:android:f873def8af7ee85886c481",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSX9_jGu0GBfml_r0KkQTYma-vknNGWNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
